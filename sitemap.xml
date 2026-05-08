@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://villentoslots.org/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/terms/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/terms/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/review/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/review/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/review/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/responsible/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/responsible/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/questions/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/questions/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/questions/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/privacy/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/privacy/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/payments/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/payments/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/payments/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/cookie/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/cookie/"/>
+  </url>
+  <url>
+    <loc>https://villentoslots.org/about/</loc>
+    <lastmod>2026-03-18T18:45:30.593Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://villentoslots.org/about/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://villentoslots.org/about/"/>
+  </url>
+</urlset>
